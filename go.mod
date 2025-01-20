@@ -232,7 +232,7 @@ require (
 	github.com/opensearch-project/opensearch-go/v3 v3.1.0 // indirect
 	github.com/oschwald/geoip2-golang v1.11.0 // indirect
 	github.com/oschwald/maxminddb-golang v1.13.0 // indirect
-	github.com/parquet-go/parquet-go v0.22.0 // indirect
+	github.com/parquet-go/parquet-go v0.23.0 // indirect
 	github.com/paulmach/orb v0.11.1 // indirect
 	github.com/pebbe/zmq4 v1.2.11 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
@@ -259,7 +259,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
-	github.com/segmentio/encoding v0.3.6 // indirect
+	github.com/segmentio/encoding v0.4.0 // indirect
 	github.com/segmentio/ksuid v1.0.4 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/sijms/go-ora/v2 v2.8.19 // indirect
@@ -320,7 +320,7 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20240520151616-dc85e6b867a5 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240515191416-fc5f0ca64291 // indirect
 	google.golang.org/grpc v1.64.0 // indirect
-	google.golang.org/protobuf v1.34.1 // indirect
+	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/jcmturner/aescts.v1 v1.0.1 // indirect
 	gopkg.in/jcmturner/dnsutils.v1 v1.0.1 // indirect
